@@ -1,0 +1,45 @@
+body {
+    font-family: "Montserrat", sans-serif !important;
+    /*font-size: 16px !important;*/
+}
+
+.pagination_block {
+    text-align: center;
+}
+
+.blog-image {
+    width: 50px;
+}
+
+.blog-big-image {
+    width: 250px;
+}
+
+.custom-file, .custom-file input, .custom-file label, .custom-file label:after {
+    height: 36px;
+}
+
+.select2 {
+    width: 100%!important;
+}
+
+.checkbox-mine-style {
+    padding-left: 0;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.navbar {
+    border: none!important;
+    max-height: 70px;
+}
